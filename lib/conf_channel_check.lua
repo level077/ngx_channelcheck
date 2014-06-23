@@ -3,8 +3,8 @@ local _M = {
 }
 
 _M.db_conf = {
-	host = "192.168.0.1",
-	port = 3308,
+	host = "192.168.10.1",
+	port = 3306,
 	user = "xxxx",
 	passwd = "xxxx",
 	dbname = "xxxx",
